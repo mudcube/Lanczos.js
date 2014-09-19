@@ -1,6 +1,6 @@
 Javascript port of Jozef Chutka's "Lanczos Resampling With ActionScript"
 
-Provides best performance of options currently available.
+Example results of script:
 
 ![alt tag](https://github.com/mudcube/Lanczos.js/blob/master/example.jpg)
 
